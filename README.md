@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Still working on this README. While we are waiting, here's some pointers.
+
+- 🧝‍♂️ I'm working as a senior system developer at [Alv](https://alv.no)
+- ✏️ Still trying to write a blog post every 3-5 years at [rikosjett.com](https://www.rikosjett.com) 
+- 🐥 I've been very active on Twitter since 2009 at https://twitter.com/rsletta
+- 🦣 and recently I started my journey to Mastodon at <a rel="me" href="https://hachyderm.io/@rsletta">https://hachyderm.io/@rsletta</a>
+
+![Ronnie's github stats](https://github-readme-stats.vercel.app/api?username=rsletta&show_icons=true)
 <!--
 **rsletta/rsletta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
